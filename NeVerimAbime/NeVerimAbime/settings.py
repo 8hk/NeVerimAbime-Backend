@@ -24,7 +24,7 @@ CLIENT_DIST_DIR = os.path.join(BASE_DIR, '..', 'frontend', 'dist')
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'wyy&)x%=1itda2g-$^a4zw5&wt+2g+c3flepu&aivbm8-u5*^e'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
